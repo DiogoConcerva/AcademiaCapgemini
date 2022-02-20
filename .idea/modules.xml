@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Teste.iml" filepath="$PROJECT_DIR$/.idea/Teste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy-capgemini/academy-capgemini.iml" filepath="$PROJECT_DIR$/academy-capgemini/academy-capgemini.iml" />
+    </modules>
+  </component>
+</project>
